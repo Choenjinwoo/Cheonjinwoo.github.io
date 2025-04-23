@@ -34,7 +34,7 @@ email: "tytyuu1233@naver.com"
 description: "사이버보안 , AI 그리고 삶의 조각들"
 author: "천진우"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://choenjinwoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cheonjinwoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%Y-%m-%d"
 
 # paginations & permalinks
