@@ -53,37 +53,23 @@ services:
 ### Skills [ skills ]
 skills:
   title: "Professional Skills"
-  subtitle: "my <b>Talent</b>"
+  subtitle: "나의 <b>기술</b>"
   bg_title: "Skills"
 
   column1:
     items:
-      - label: "PHP" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "85" #0-100 progress in %
-
       - label: "Python" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
+        text: "기초적인 파이썬 지식을 가지고 있습니다."
+        value: "70" #0-100 progress in %
+
+      - label: "Linux" #0-10 progress in dots
+        text: "기초적인 리눅스 지식을 가지고 있습니다."
+        value: "60" #0-100 progress in %
 
   column2:
     items:
-      - label: "JavaScript" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
-
-      - label: "React" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "70" #0-100 progress in %
-
-  column3:
-    items:
-      - label: "WordPress" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "90" #0-100 progress in %
-
-      - label: "Adobe XD" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - label: "History" #0-10 progress in dots
+        text: "미약한 역사 지식을 가지고 있습니다."
         value: "80" #0-100 progress in %
 
 ### Resume [ resume ]
