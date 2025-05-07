@@ -10,7 +10,7 @@ hero:
   title: "<b>천</b>진우"
   before_title: "안녕하세요, <b>제 이름은</b>"
   after_title: "저는 <strong>이해라는 불빛</strong> 하나를 들고 걷는 사람입니다"
-  description: "세상의 원리를 파고들기를 좋아합니다. 사이버보안, AI, 뇌과학, 철학, 그리고 인간의 역사까지 저는 세상이 어떻게 작동하는지, 인간은 어떻게 이해해왔는지를 알고 싶어합니다. 그 답은 쉽지 않지만, 이해하려는 시도를 멈추지 않는 것, 그 자체가 제 삶의 태도입니다."
+  description: "세상의 원리를 파고들기를 좋아합니다. 저는 세상이 어떻게 작동하는지, 인간은 어떻게 이해해왔는지를 알고 싶어합니다. 그 답은 쉽지 않지만, 이해하려는 시도를 멈추지 않는 것, 그 자체가 제 삶의 태도입니다."
   button1:
     label: "Download CV"
     link: "https://drive.google.com/"
@@ -32,35 +32,23 @@ services:
   bg_title: "Services"
 
   items:
-    - title: "Web Design &amp; Logo"
-      subtitle: "Web Development"
-      text: "Web designers craft the overall vision &amp; plan for a website layout. Professional logo development: Business, Company, or Personal."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "History"
+      subtitle: "과거의 메아리"
+      text: "고대 문명부터 디지털 혁명까지, 역사는 단지 지나간 일이 아니라 우리가 이어가는 이야기입니다. 세상을 바꾼 순간들을 만나보세요."
+      button_label: "자세히 보기"
+      button_link: "#"
 
-    - title: "iOS &amp; Android"
-      subtitle: "Apps Development"
-      text: "Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "Writings"
+      subtitle: "빛 하나를 따라"
+      text: "나는 이해라는 불빛 하나를 들고, 기술과 인간, 과거와 미래의 틈을 걷는다. 이 글들은 그 길 위에서 마주한 풍경들이다."
+      button_label: "자세히 보기"
+      button_link: "#"
 
-    - title: "Unity &amp; Unreal Engine"
-      subtitle: "Game Development"
-      text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
-
-    - title: "Google Ads"
-      subtitle: "Advertising"
-      text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
-
-    - title: "Sound Track"
-      subtitle: "Music Writing"
-      text: "Music copying, writing, creating, transcription and composition services."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    - title: "Laps"
+      subtitle: "이상한 상상을 해보는 곳"
+      text: "이곳은 정답을 찾기 위한 공간이 아닙니다. 다르게 보기, 다르게 만들어 보기. 말도 안 될지도 모르지만, 그래서 더 재미있는 상상과 실험의 기록입니다."
+      button_label: "자세히 보기"
+      button_link: "#"
 
 ### Skills [ skills ]
 skills:
