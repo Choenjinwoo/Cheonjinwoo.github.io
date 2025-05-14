@@ -1,32 +1,65 @@
 ---
 layout: post
-title:  Two Before Arrow Not Relied
-date:   2020-07-20
-category: Design
-image: assets/img/blog/blog8.jpg
-author: Ryan Adlard
+title:  "불을 머리에 올린 인간: 신성을 쓰고 싶었던 인간의 욕망 - 프롤로그 "
+date:   2025 - 04 - 15
+category: History
+author: 천진우
 tags: code
 ---
+**프롤로그**
 
-So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
+“불을 쳐다본 인간, 머리에 그것을 얹다”
 
-Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.
+아주 오래 전, 아직 신과 인간의 경계가 흐릿하던 시절,
 
+한 무리의 인간이 머리 위로 하늘을 올려다보았다.
 
-> Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.
+그곳에는 바람, 번개, 해, 그리고 불이 있었다.
 
-Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing [link](#) sufficient everything men him admiration unpleasing .
+그 불은 두려움이었고, 생명이었고, 때로는 신이었다.
 
-* Greatest properly off ham exercise all.
-* Unsatiable invitation its possession nor off.
-* All difficulty estimating unreserved increasing the solicitude.
+그들은 알았다.
 
-Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.
+무언가 위에서 내려온다는 것.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Ryan')
-#=> prints 'Hi, Ryan' to STDOUT.
-```
+그리고 무언가를 머리에 얹는 순간,
+
+자신이 그 ‘위로부터’ 연결된 존재가 될 수 있다는 것을.
+
+그래서 인간은 머리를 꾸미기 시작했다.
+
+돌로, 뼈로, 깃털로.
+
+신의 목소리를 들은 자는 머리에 사슴의 뿔을 달았고,
+
+집단을 이끄는 자는 하늘의 형상을 얹었다.
+
+그것은 단지 깃털이었고, 뼈였으며, 나뭇가지였지만,
+
+머리에 얹힌 순간, 그것은 말 없는 선언이 되었다.
+
+괴베클리 테페의 돌기둥 아래에서,
+
+그들은 신의 형상을 보고,
+
+그 형상을 자신의 머리 위에 재현하고 있었을지 모른다.
+
+그리고 오랜 시간이 흐른 후,
+
+인간은 금이라는 재료를 발견한다.
+
+녹슬지 않고, 썩지 않으며, 태양처럼 반짝이는 금.
+
+불을 닮은 그것을, 인간은 머리에 얹었다.
+
+그 순간부터, 인간은
+
+“나는 신의 선택을 받은 자다.”
+
+“나는 하늘로부터 권위를 부여받았다.” 라고 보여줄 수 있게 되었다.
+
+이 책은, 그 불을 머리에 올린 인간의 이야기다.
+
+생존보다 상징을 먼저 선택했던 존재,
+
+신성을 쓰고 싶어했던 인간의 1만 년 욕망의 기록이다.
