@@ -3,7 +3,6 @@ layout: post
 title:  "불을 머리에 올린 인간: 신성을 쓰고 싶었던 인간의 욕망 - 목차"
 date:   2025-04-10
 category: History
-#image: assets/img/blog/blog9.jpg
 author: 천진우
 tags: rock
 ---
