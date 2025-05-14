@@ -1,32 +1,105 @@
 ---
 layout: post
-title:  "By spite about do of do allow"
-date:   2020-08-05
-category: Music
+title:  "불을 머리에 올린 인간: 신성을 쓰고 싶었던 인간의 욕망 - 목차"
+date:   2025-04-10
+category: History
 image: assets/img/blog/blog9.jpg
-author: Ryan Adlard
+author: 천진우
 tags: rock
 ---
+### **프롤로그**
 
-So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
+**“불을 쳐다본 인간, 머리에 그것을 얹다”**
 
-Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.
+- 괴베클리 테페에서 시작된 의례와 머리
+- 머리는 왜 인간에게 특별했는가?
+- 금이 아닌 재료로도 시작된 ‘상징의 형태’
 
+---
 
-> Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.
+### **1장. 머리는 하늘에 가장 가까운 곳**
 
-Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing [link](#) sufficient everything men him admiration unpleasing .
+- 머리에 대한 원초적 신성 인식
+- 고대 인류가 머리를 꾸미기 시작한 이유
+- 인류학적으로 본 머리 장식의 보편성
 
-* Greatest properly off ham exercise all.
-* Unsatiable invitation its possession nor off.
-* All difficulty estimating unreserved increasing the solicitude.
+---
 
-Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.
+### **2장. 상징은 농업보다 먼저 왔다**
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Ryan')
-#=> prints 'Hi, Ryan' to STDOUT.
-```
+- 괴베클리 테페와 농경 이전 의례
+- 생존보다 의식이 먼저였다는 고고학적 증거
+- 샤먼과 제사장의 기원
+
+---
+
+### **3장. 왕은 왜 머리에 무언가를 얹는가**
+
+- 머리 장식의 정치적 진화
+- 왕권, 제사장, 샤먼의 상징 혼합
+- 머리 = 권위의 자리라는 보편 원리
+
+---
+
+### **4장. 이집트, 금을 발견하다**
+
+- 이집트에서 ‘금’과 ‘머리 장식’이 만난 순간
+- 투탕카멘의 황금 마스크
+- 왜 이집트는 금으로 머리를 장식했는가?
+
+---
+
+### **5장. 초원을 타고 달리는 상징들**
+
+- 스키타이와 스텝 벨트의 유목 제국
+- 수목형 금관, 동물 무늬, 샤머니즘적 계승
+- 상징은 실크로드보다 먼저 달렸다
+
+---
+
+### **6장. 금관, 동쪽으로 오다**
+
+- 흉노, 선비, 고구려를 거쳐
+- 신라 금관의 구조와 북방 유목문화의 흔적
+- 신성과 왕권이 하나가 된 형태
+
+---
+
+### **7장. 금관은 왜 금이어야 했는가**
+
+- 금이라는 재료의 불멸성과 신성성
+- 금을 향한 인간의 집착
+- 금은 신성의 외피인가, 욕망의 덩어리인가
+
+---
+
+### **8장. 머리에 올리는 불꽃, 권위의 연극**
+
+- 제의, 퍼포먼스, 왕의 시각적 연출
+- 관중을 위한 상징으로서의 금관
+- 권위를 ‘보이게’ 만드는 장치들
+
+---
+
+### **9장. 금관은 기억된다, 형태로**
+
+- 스키타이~신라의 형태적 유사성
+- 형태가 살아남고 의미는 진화한다
+- 금관은 사라졌지만 인간은 여전히 머리에 무언가를 얹는다
+
+---
+
+### **10장. 불을 머리에 올린 인간**
+
+- 다시 비유로 돌아가며 철학적 결론
+- 인간은 왜 신성해지고 싶었는가
+- 머리를 치장하는 인간의 근원적 욕망
+
+---
+
+### **에필로그**
+
+**“신성을 쓰고 싶었던 인간의 욕망은 지금도 계속되고 있다.”**
+
+- 현대의 왕관, 대관식, 금모자, 심지어 졸업모까지
+- 머리 위의 상징은 사라지지 않았다
