@@ -1,6 +1,6 @@
 ---
-layout: category
+layout: archive
 title: "History"
 category: history
-permalink: /categories/History/
+permalink: /categories/history/
 ---

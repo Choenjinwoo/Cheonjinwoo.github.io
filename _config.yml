@@ -54,8 +54,6 @@ collections:
   works:
     output: true
     permalink: /:collection/:name
-  categories:
-    output: true
 
 
 # archives
