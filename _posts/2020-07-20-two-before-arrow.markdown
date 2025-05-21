@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "불을 머리에 올린 인간: 신성을 쓰고 싶었던 인간의 욕망 - 프롤로그 "
-date:   2025 - 04 - 15
+date:   2025-04-15
 category: History
 author: 천진우
 tags: code
