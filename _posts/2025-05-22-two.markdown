@@ -5,7 +5,7 @@ date:   2025-05-22
 category: History
 image: assets/img/blog/tibet.jpg
 author: 천진우
-tags: History
+tags: history
 comments: true
 ---
 ## **2장. 상징은 농업보다 먼저 왔다**

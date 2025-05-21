@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "History"
-category: History
+category: history
 permalink: /categories/History/
 ---

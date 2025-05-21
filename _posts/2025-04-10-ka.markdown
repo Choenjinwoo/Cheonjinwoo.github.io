@@ -5,7 +5,7 @@ date:   2025-04-10
 category: History
 image: assets/img/blog/tibet.jpg
 author: 천진우
-tags: History
+tags: history
 comments: true
 ---
 ### **프롤로그**

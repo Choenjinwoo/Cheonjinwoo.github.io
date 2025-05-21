@@ -5,7 +5,7 @@ date:   2025-05-23
 category: History
 image: assets/img/blog/tibet.jpg
 author: 천진우
-tags: History
+tags: history
 comments: true
 ---
 ## 3장. 왕은 왜 머리에 무언가를 얹는가

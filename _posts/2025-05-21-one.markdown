@@ -5,7 +5,7 @@ date:   2025-05-21
 category: History
 image: assets/img/blog/tibet.jpg
 author: 천진우
-tags: History
+tags: history
 comments: true
 ---
 ## 1장. 머리는 하늘에 가장 가까운 곳
