@@ -5,6 +5,7 @@ date:   2025-04-15
 category: History
 author: 천진우
 tags: Mobile
+comments: true
 ---
 **프롤로그**
 
