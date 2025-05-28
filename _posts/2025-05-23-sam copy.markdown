@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "불을 머리에 올린 인간: 신성을 쓰고 싶었던 인간의 욕망 - 3장"
-date:   2025-05-12
+date:   2025-05-23
 category: history
 image: assets/img/blog/tibet.jpg
 author: 천진우
