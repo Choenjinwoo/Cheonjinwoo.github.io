@@ -60,15 +60,15 @@ skills:
     items:
       - label: "Python" #0-10 progress in dots
         text: "기초적인 파이썬 지식을 가지고 있습니다."
-        value: "70" #0-100 progress in %
+        value: "60" #0-100 progress in %
 
       - label: "Linux" #0-10 progress in dots
         text: "기초적인 리눅스 지식을 가지고 있습니다."
-        value: "60" #0-100 progress in %
+        value: "50" #0-100 progress in %
 
       - label: "C,C++" #0-10 progress in dots
         text: "아주 기본적인 C,C++ 지식을 가지고 있습니다."
-        value: "60" #0-100 progress in %
+        value: "40" #0-100 progress in %
 
   column2:
     items:
