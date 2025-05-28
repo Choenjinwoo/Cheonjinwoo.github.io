@@ -43,6 +43,7 @@ Version: 1.0
 /**
 * Base Styles
 **/
+@import 'setting';
 
 * {
 	outline: none;
@@ -81,7 +82,7 @@ body {
 }
 
 body {
-	background-color: #F0EBE3;
+	background-color: $light_default_bg;
 }
 
 body.no-scroll {
