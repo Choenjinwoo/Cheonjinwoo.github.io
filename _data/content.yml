@@ -9,7 +9,7 @@ hero:
   image_alt: "Cheon Jinwoo"
   title: "<b>천</b>진우"
   before_title: "안녕하세요, <b>제 이름은</b>"
-  after_title: "저는 <strong>이해라는 불빛</strong> 하나를 들고 걷는 사람입니다"
+  after_title: "저는 <strong>사이버보안과</strong> 2학년입니다."
   description: "세상의 원리를 파고들기를 좋아합니다. 저는 세상이 어떻게 작동하는지, 인간은 어떻게 이해해왔는지를 알고 싶어합니다. 그 답은 쉽지 않지만, 이해하려는 시도를 멈추지 않는 것, 그 자체가 제 삶의 태도입니다."
   button1:
     label: "Download CV"
@@ -40,7 +40,7 @@ services:
 
     - title: "Writings"
       subtitle: "빛 하나를 따라"
-      text: "나는 이해라는 불빛 하나를 들고, 기술과 인간, 과거와 미래의 틈을 걷는다. 이 글들은 그 길 위에서 마주한 풍경들이다."
+      text: "저는 이해라는 불빛 하나를 들고, 기술과 인간, 과거와 미래의 틈을 걷습니다. 이 글들은 그 길 위에서 마주한 풍경들입니다."
       button_label: "자세히 보기"
       button_link: "#"
 
@@ -66,10 +66,14 @@ skills:
         text: "기초적인 리눅스 지식을 가지고 있습니다."
         value: "60" #0-100 progress in %
 
+      - label: "C,C++" #0-10 progress in dots
+        text: "아주 기본적인 C,C++ 지식을 가지고 있습니다."
+        value: "60" #0-100 progress in %
+
   column2:
     items:
       - label: "History" #0-10 progress in dots
-        text: "미약한 역사 지식을 가지고 있습니다."
+        text: "기초적인 역사 지식을 가지고 있습니다."
         value: "80" #0-100 progress in %
 
 ### Resume [ resume ]
