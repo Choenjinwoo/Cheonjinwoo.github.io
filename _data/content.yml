@@ -36,7 +36,7 @@ services:
       subtitle: "과거의 메아리"
       text: "고대 문명부터 디지털 혁명까지, 역사는 단지 지나간 일이 아니라 우리가 이어가는 이야기입니다. 세상을 바꾼 순간들을 만나보세요."
       button_label: "자세히 보기"
-      button_link: "#"
+      button_link: "/categories/history/"
 
     - title: "Writings"
       subtitle: "빛 하나를 따라"
