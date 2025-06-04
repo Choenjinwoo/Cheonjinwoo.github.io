@@ -22,14 +22,14 @@ main:
     parent: 0
 
   # Works
-  - title: "Works"
-    url: "#works-section"
-    parent: 0
+  # - title: "Works"
+  #   url: "#works-section"
+  #   parent: 0
 
   # Resume
-  - title: "Resume"
-    url: "#resume-section"
-    parent: 0
+  # - title: "Resume"
+  #   url: "#resume-section"
+  #   parent: 0
 
   # Testimonials
   - title: "Testimonials"
@@ -37,9 +37,9 @@ main:
     parent: 0
 
   # Pricing
-  - title: "Pricing"
-    url: "#pricing-section"
-    parent: 0
+  # - title: "Pricing"
+  #   url: "#pricing-section"
+  #   parent: 0
 
   # Blog
   - title: "Blog"
