@@ -66,11 +66,32 @@ skills:
         text: "아주 기본적인 C,C++ 지식을 가지고 있습니다."
         value: "50" #0-100 progress in %
 
+      - label: "AI" #0-10 progress in dots
+        text: "아주 기본적인 AI 관련 지식을 가지고 있습니다."
+        value: "30" #0-100 progress in %
+
   column2:
     items:
       - label: "Linux" #0-10 progress in dots
         text: "기초적인 리눅스 지식을 가지고 있습니다."
         value: "50" #0-100 progress in %
+
+      - label: "Network" #0-10 progress in dots
+        text: "기초적인 네트워크 지식을 가지고 있습니다."
+        value: "50" #0-100 progress in %
+      
+      - label: "History" #0-10 progress in dots
+        text: "고대 문명부터 디지털 혁명까지, 역사는 단지 지나간 일이 아니라 우리가 이어가는 이야기입니다."
+        value: "70" #0-100 progress in %
+  column3:
+    items:
+      - label: "HTML" #0-10 progress in dots
+        text: "기초적인 HTML 지식을 가지고 있습니다."
+        value: "60" #0-100 progress in %
+
+      - label: "CSS" #0-10 progress in dots
+        text: "기초적인 CSS 지식을 가지고 있습니다."
+        value: "60" #0-100 progress in %
 
 ### Resume [ resume ]
 # resume:
