@@ -22,15 +22,7 @@ header:
 social:
   - title: "Instagram"
     icon: "fab fa-instagram"
-    url: "http://instagram.com"
-
-  - title: "Dribbble"
-    icon: "fab fa-dribbble"
-    url: "http://dribbble.com"
-
-  - title: "Behance"
-    icon: "fab fa-behance"
-    url: "http://behance.com"
+    url: "https://www.instagram.com/cheonjinwoo1106/"
 
 ### Footer
 footer:
