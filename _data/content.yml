@@ -112,21 +112,21 @@ contacts:
   bg_title: "Contact Me"
 
   list:
-    - label: "Address"
+    - label: "주소"
       icon: "far fa-map"
-      text: "North Tower, Toronto, Canada"
+      text: "서울특별시 강서구 화곡동"
 
-    - label: "Freelance"
+    - label: "대학생"
       icon: "far fa-user"
-      text: "Available Right Now"
+      text: "사이버보안과"
 
     - label: "Email"
       icon: "far fa-envelope"
-      text: "zoe.miller@mydomain.com"
+      text: "tytyuu1233@naver.com"
 
     - label: "Phone"
       icon: "far fa-address-book"
-      text: "+1 900 - 900 - 9000"
+      text: "+92 010-9971-1526"
 
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*
