@@ -9,13 +9,13 @@ settings:
 ### Preloader
 preloader:
   logo:
-    image: "assets/img/logoj.png"
+    image: "assets/img/logojinwoo.png"
     alt: "Zoé Miller"
 
 ### Header
 header:
   logo:
-    image: "assets/img/logoj.png"
+    image: "assets/img/logojinwoo.png"
     alt: "Zoé Miller"
 
 ### Social
