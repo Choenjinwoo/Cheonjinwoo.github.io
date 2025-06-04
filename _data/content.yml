@@ -12,8 +12,8 @@ hero:
   after_title: "저는 <strong>사이버보안과</strong> 2학년입니다."
   description: "세상의 원리를 파고들기를 좋아합니다. 저는 세상이 어떻게 작동하는지, 인간은 어떻게 이해해왔는지를 알고 싶어합니다. 그 답은 쉽지 않지만, 이해하려는 시도를 멈추지 않는 것, 그 자체가 제 삶의 태도입니다."
   button1:
-    label: "Download CV"
-    link: "#"
+    label: "Jinwoo's GitHub"
+    link: "https://github.com/cheonjinwoo"
   button2:
     label: "My Skills"
     link: "#skills-section"
