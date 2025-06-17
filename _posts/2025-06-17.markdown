@@ -2,7 +2,7 @@
 layout: post
 title:  "SKT 유심 정보 유출 사건 보고서"
 date:   2025-06-17
-category: [network security]
+category: [history]
 image: assets/img/blog/tibet.jpg
 author: 천진우
 tags: network security
